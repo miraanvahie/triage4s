@@ -13,9 +13,9 @@ List the exact commands you ran and what they reported, e.g.
 `sbt test` (N passed), `sbt scalafmtCheckAll`.
 If a check doesn't apply, write N/A and say why.
 No OpenAI key or live model call is needed to run the tests.
-See the Development section of the README:
-https://github.com/pavanvamsi3/triage4s/blob/main/README.md#development
 -->
+
+Commands are listed in the README's [Development](https://github.com/pavanvamsi3/triage4s/blob/main/README.md#development) section.
 
 ## Screenshots
 
